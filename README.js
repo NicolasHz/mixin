@@ -1,7 +1,6 @@
 # mixin
 Mixin for classes
 
-{return}
 class A {
     componentDidMount(a){
         console.log(1)

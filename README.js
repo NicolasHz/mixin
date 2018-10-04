@@ -1,5 +1,5 @@
-# mixin
-Mixin for classes
+//# mixin
+//Mixin for classes
 
 class A {
     componentDidMount(a){
